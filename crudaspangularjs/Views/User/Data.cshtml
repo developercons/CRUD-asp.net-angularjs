@@ -1,0 +1,52 @@
+﻿@model IEnumerable<crudaspangularjs.Models.User>
+@{
+    ViewBag.Title = "Data";
+}
+<br>
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        Users
+    </div>
+    <div class="panel-body">
+
+        <table class="table table-bordered">
+
+
+            <thead>
+                <tr>
+                    <th>
+                        Name
+                    </th>
+                    <th>
+                        Email
+                    </th>
+                    <th>
+                        Address
+                    </th>
+                    <th>#</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var user in Model)
+                {
+                    <tr>
+                        <td> @user.Name</td>
+                        <td> @user.Email</td>
+                        <td> @user.Address</td>
+                        <td>
+                            <a href="#/edituser/{{@user.Id}}" class="btn btn-primary">Edit</a> |
+                            <a href="" ng-click="deleteUser(@user.Id)" class="btn btn-danger">Delete</a>
+
+                          
+                        </td>
+                    </tr>
+                }
+
+
+            </tbody>
+        </table>
+
+    </div>
+</div>
+

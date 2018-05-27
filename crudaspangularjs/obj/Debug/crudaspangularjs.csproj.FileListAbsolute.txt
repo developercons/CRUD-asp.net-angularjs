@@ -1,0 +1,94 @@
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\ApplicationInsights.config
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\crudaspangularjs.dll.config
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\crudaspangularjs.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\crudaspangularjs.pdb
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\Antlr3.Runtime.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\Microsoft.AI.Agent.Intercept.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\Microsoft.AI.DependencyCollector.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\Microsoft.AI.Web.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\Microsoft.AI.WindowsServer.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\Microsoft.ApplicationInsights.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\Microsoft.Web.Infrastructure.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\Newtonsoft.Json.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\System.Web.Helpers.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\System.Web.Mvc.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\System.Web.Optimization.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\System.Web.Razor.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\System.Web.WebPages.Deployment.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\System.Web.WebPages.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\System.Web.WebPages.Razor.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\WebGrease.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\System.Web.Helpers.xml
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\System.Web.Mvc.xml
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\System.Web.Optimization.xml
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\System.Web.Razor.xml
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\System.Web.WebPages.xml
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\System.Web.WebPages.Deployment.xml
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\System.Web.WebPages.Razor.xml
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\Antlr3.Runtime.pdb
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\Newtonsoft.Json.xml
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\Microsoft.ApplicationInsights.xml
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\Microsoft.AI.DependencyCollector.xml
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\Microsoft.AI.WindowsServer.xml
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\Microsoft.AI.Web.xml
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\obj\Debug\crudaspangularjs.csproj.CoreCompileInputs.cache
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\obj\Debug\crudaspangularjs.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\obj\Debug\crudaspangularjs.pdb
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\EntityFramework.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\EntityFramework.SqlServer.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\EntityFramework.xml
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\EntityFramework.SqlServer.xml
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\bin\Rotativa.dll
+G:\A\c# asp.net\crudaspangularjs\crudaspangularjs\obj\Debug\crudaspangularjs.csprojResolveAssemblyReference.cache
+G:\A\crudaspangularjs\crudaspangularjs\bin\ApplicationInsights.config
+G:\A\crudaspangularjs\crudaspangularjs\bin\crudaspangularjs.dll.config
+G:\A\crudaspangularjs\crudaspangularjs\bin\crudaspangularjs.dll
+G:\A\crudaspangularjs\crudaspangularjs\bin\crudaspangularjs.pdb
+G:\A\crudaspangularjs\crudaspangularjs\bin\Antlr3.Runtime.dll
+G:\A\crudaspangularjs\crudaspangularjs\bin\EntityFramework.dll
+G:\A\crudaspangularjs\crudaspangularjs\bin\EntityFramework.SqlServer.dll
+G:\A\crudaspangularjs\crudaspangularjs\bin\Microsoft.AI.Agent.Intercept.dll
+G:\A\crudaspangularjs\crudaspangularjs\bin\Microsoft.AI.DependencyCollector.dll
+G:\A\crudaspangularjs\crudaspangularjs\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\A\crudaspangularjs\crudaspangularjs\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\A\crudaspangularjs\crudaspangularjs\bin\Microsoft.AI.Web.dll
+G:\A\crudaspangularjs\crudaspangularjs\bin\Microsoft.AI.WindowsServer.dll
+G:\A\crudaspangularjs\crudaspangularjs\bin\Microsoft.ApplicationInsights.dll
+G:\A\crudaspangularjs\crudaspangularjs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\A\crudaspangularjs\crudaspangularjs\bin\Microsoft.Web.Infrastructure.dll
+G:\A\crudaspangularjs\crudaspangularjs\bin\Newtonsoft.Json.dll
+G:\A\crudaspangularjs\crudaspangularjs\bin\Rotativa.dll
+G:\A\crudaspangularjs\crudaspangularjs\bin\System.Web.Helpers.dll
+G:\A\crudaspangularjs\crudaspangularjs\bin\System.Web.Mvc.dll
+G:\A\crudaspangularjs\crudaspangularjs\bin\System.Web.Optimization.dll
+G:\A\crudaspangularjs\crudaspangularjs\bin\System.Web.Razor.dll
+G:\A\crudaspangularjs\crudaspangularjs\bin\System.Web.WebPages.Deployment.dll
+G:\A\crudaspangularjs\crudaspangularjs\bin\System.Web.WebPages.dll
+G:\A\crudaspangularjs\crudaspangularjs\bin\System.Web.WebPages.Razor.dll
+G:\A\crudaspangularjs\crudaspangularjs\bin\WebGrease.dll
+G:\A\crudaspangularjs\crudaspangularjs\bin\EntityFramework.xml
+G:\A\crudaspangularjs\crudaspangularjs\bin\EntityFramework.SqlServer.xml
+G:\A\crudaspangularjs\crudaspangularjs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\A\crudaspangularjs\crudaspangularjs\bin\System.Web.Helpers.xml
+G:\A\crudaspangularjs\crudaspangularjs\bin\System.Web.Mvc.xml
+G:\A\crudaspangularjs\crudaspangularjs\bin\System.Web.Optimization.xml
+G:\A\crudaspangularjs\crudaspangularjs\bin\System.Web.Razor.xml
+G:\A\crudaspangularjs\crudaspangularjs\bin\System.Web.WebPages.xml
+G:\A\crudaspangularjs\crudaspangularjs\bin\System.Web.WebPages.Deployment.xml
+G:\A\crudaspangularjs\crudaspangularjs\bin\System.Web.WebPages.Razor.xml
+G:\A\crudaspangularjs\crudaspangularjs\bin\Antlr3.Runtime.pdb
+G:\A\crudaspangularjs\crudaspangularjs\bin\Newtonsoft.Json.xml
+G:\A\crudaspangularjs\crudaspangularjs\bin\Microsoft.ApplicationInsights.xml
+G:\A\crudaspangularjs\crudaspangularjs\bin\Microsoft.AI.DependencyCollector.xml
+G:\A\crudaspangularjs\crudaspangularjs\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\A\crudaspangularjs\crudaspangularjs\bin\Microsoft.AI.WindowsServer.xml
+G:\A\crudaspangularjs\crudaspangularjs\bin\Microsoft.AI.Web.xml
+G:\A\crudaspangularjs\crudaspangularjs\obj\Debug\crudaspangularjs.csprojResolveAssemblyReference.cache
+G:\A\crudaspangularjs\crudaspangularjs\obj\Debug\crudaspangularjs.csproj.CoreCompileInputs.cache
+G:\A\crudaspangularjs\crudaspangularjs\obj\Debug\crudaspangularjs.dll
+G:\A\crudaspangularjs\crudaspangularjs\obj\Debug\crudaspangularjs.pdb

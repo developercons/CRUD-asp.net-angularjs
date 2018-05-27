@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\crudaspangularjs",
+    "\\crudaspangularjs\\app",
+    "\\crudaspangularjs\\app\\Controllers",
+    "\\crudaspangularjs\\app\\shared",
+    "\\crudaspangularjs\\Controllers",
+    "\\crudaspangularjs\\Views",
+    "\\crudaspangularjs\\Views\\Home"
+  ],
+  "SelectedNode": "\\crudaspangularjs\\Controllers\\UserController.cs",
+  "PreviewInSolutionExplorer": false
+}
